@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**scottwjones721/scottwjones721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scott has over 10 years of experience in web development, including back-end and front-end development. He specializes in building scalable, secure backend solutions using PHP and its frameworks such as Laravel, and Symfony and he's also proficient with front-end development skills like HTML, CSS, JavaScript, React, and Vue.js. He has successfully led and contributed to various projects, collaborating effectively within team environments.
 
-Here are some ideas to get you started:
+Scott is dedicated to continuously learning new technologies and always staying updated with the latest trends in web development. He can quickly grasp new concepts and technologies and deliver innovative solutions that meet the evolving needs of clients and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- PHP, Laravel, Symfony, CodeIgniter
+- JavaScript, jQuery, React, Vue.js
+- HTML5, CSS3, Bootstrap, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB
+- RESTful API, GraphQL
+- API Integrations (MailChimp, Stripe, Twilio, etc.)
+- Elasticsearch
+- AWS, GCP, Firebase
+- Git, Jira, Trello, Asana
